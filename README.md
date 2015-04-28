@@ -11,10 +11,16 @@
 5. [パワーマネジメントモジュール](../../wiki/%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2#5-%E3%83%91%E3%83%AF%E3%83%BC%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB)  
 
 ###[ソフトウェア] (../../wiki/ソフトウェア) 
-初期出荷分　SDに含まれるツール群を記載しております。  
+Debian Wheezy, Jessie 両対応となっております。  
+[パッケージインストール方法について](../../wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2#%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+  
 
 ##パッケージ  
-後日公開予定です。  
+slee-Pi 用パッケージのソースコードは下記のリンクから参照できます。  
+* [sleepi-archive-keyring](https://github.com/mechatrax/sleepi-archive-keyring)  
+* [sleepi-firmware](https://github.com/mechatrax/sleepi-firmware)  
+* [sleepi-monitor](https://github.com/mechatrax/sleepi-monitor)  
+* [sleepi-utils](https://github.com/mechatrax/sleepi-utils)  
 
 ## 参考資料  
  + Raspberry Pi ドキュメント  
