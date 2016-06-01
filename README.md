@@ -22,6 +22,9 @@
   2.3 [sleepi-monitor](../../../sleepi-monitor)  
   2.4 [sleepi-utils](../../../sleepi-utils)  
 
+## マニュアル  
+ * [マニュアル](manual)  
+
 ## 参考資料  
  + Raspberry Pi ドキュメント  
    http://www.raspberrypi.org/documentation/  
